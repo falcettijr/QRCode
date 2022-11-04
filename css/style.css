@@ -19,7 +19,7 @@ body{
   background-color:hsl(0, 0%, 100%);
   display: flex;
   border-radius: 15px;
-  max-width: 240px;
+  width: 240px;
   height: 370px;
   flex-direction: column;
   justify-content: space-evenly;
@@ -29,7 +29,8 @@ body{
   }
 
   img{
-    border-radius: 15px;;
+    border-radius: 15px;
+    width: 95%;
   }
 
   
