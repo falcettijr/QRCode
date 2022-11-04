@@ -34,7 +34,7 @@ body{
   }
 
   
-  #titulo{
+  h3{
     text-align: center;
     font-weight: 700;
     font-family: 'Outfit', sans-serif;
@@ -44,7 +44,7 @@ body{
     font-size: 15px;
   }
 
-  #texto{
+  .paragrafo{
     text-align: center;
     font-weight: 400;
     font-family: 'Outfit', sans-serif;
