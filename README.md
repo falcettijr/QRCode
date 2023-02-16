@@ -22,7 +22,7 @@ Essa é uma solução para o desafio "Front End Mentor" [QR code component chall
 ## Links
 
 - Solution URL: [https://github.com/falcettijr/QRCode](https://github.com/falcettijr/QRCode)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://falcettijr.github.io/QRCode/)
 
 ## Feito com
 
