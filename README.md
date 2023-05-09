@@ -1,6 +1,12 @@
 # Desafio Frontend Mentor - "QR code component solution"
 
-Essa é uma solução para o desafio "Front End Mentor" [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+Essa é a minha solução para o desafio [QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) do Frontend Mentor. 
+
+# Créditos do Projeto
+
+ - Código, planejamento e manutenção feito por Sergio Falcetti. 
+ - Design fornecido por FrontEnd Mentor.
+
 ## Índice
 
 - [Visão Geral](#visão-geral)
@@ -26,9 +32,8 @@ Essa é uma solução para o desafio "Front End Mentor" [QR code component chall
 
 ## Feito com
 
-- Semantic HTML5 markup
+- HTML5
 - CSS 3 
-- Flexbox
 
 ## O que aprendi
 
